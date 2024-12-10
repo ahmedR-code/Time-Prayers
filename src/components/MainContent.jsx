@@ -45,7 +45,7 @@ export default function MainContent() {
       displayName: "الفجر",
     },
     {
-      key: " Dhuhr",
+      key: "Dhuhr",
       displayName: "الظهر",
     },
     {
@@ -57,7 +57,7 @@ export default function MainContent() {
       displayName: "المغرب",
     },
     {
-      key: " Isha",
+      key: "Isha",
       displayName: "العشاء",
     },
   ];
